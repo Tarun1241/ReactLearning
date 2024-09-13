@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 }
+
+.form-div,.my-cont-div{
+  padding:30px;
+}
+.mybtnSucc{
+  height: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0px;
+    width: 90px;
+}
+
+.my-cont-div{
+  border-right:1px solid rgba(0,0,0,0.2);
+  min-height: 350px;
+  background:#646cffaa;
+}
+
+.azure{
+  background:azure;
+  padding:1px;
+}
